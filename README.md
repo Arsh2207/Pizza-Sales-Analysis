@@ -24,6 +24,7 @@ The project focused on examining pizza sales data to identify key insights relat
 
 4. **Order_Details.csv**: Breaks down each order by the specific pizzas ordered, allowing for in-depth analysis of order quantities and popular items.
 
+<img width="416" alt="schema" src="https://github.com/user-attachments/assets/91e15728-4dd4-416b-a1be-f3daa9a4ca87">
 
 ### Tools Used
 
@@ -60,7 +61,3 @@ EDA involved exploring the customer data to get Key Performance Indicators (KPIs
 - Optimize Operations: Align staff and inventory with peak order hours to improve efficiency.
 - Enhance Customer Loyalty: Introduce loyalty programs and gather feedback to improve offerings.
 - Innovate Menu: Experiment with new pizza varieties and limited-time offers to boost underperforming categories. 
-
-
-
- 
