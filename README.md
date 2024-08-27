@@ -3,7 +3,7 @@
 ## Table of Contents:
 
 - [Project Overview](#project-overview)
-- [Data Sources and Schema](#data-sources-and=schema)
+- [Data Sources and Schema](#data-sources-and-schema)
 - [Tools Used](#tools-used)
 - [Data Preparation](#data-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -54,11 +54,12 @@ EDA involved exploring the customer data to get Key Performance Indicators (KPIs
 
 ### Recommendations
 
-- Steps should be taken to decrese the revolving balance of Grade-B customers
-- The bank should focus on the Verified customers as they are regular in loan repayment
-- Prepare for more loan completions and adjust strategies to handle increased cash flow
-- Continue offering consistent loan products, as homeowners show steady repayment patterns
-- Focus on creating attractive loan products for renters, and explore opportunities to offer additional financial services
+- Promote Top-Selling Pizzas: Focus marketing efforts on the highest-revenue pizzas.
+- Adjust Pricing: Consider dynamic pricing during peak times and slightly increase prices for popular pizzas.
+- Targeted Promotions: Design promotions based on customer preferences and seasonal trends.
+- Optimize Operations: Align staff and inventory with peak order hours to improve efficiency.
+- Enhance Customer Loyalty: Introduce loyalty programs and gather feedback to improve offerings.
+- Innovate Menu: Experiment with new pizza varieties and limited-time offers to boost underperforming categories. 
 
 
 
